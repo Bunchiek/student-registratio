@@ -1,7 +1,6 @@
 package com.example.studentregistration;
 
 import lombok.*;
-import org.springframework.shell.standard.ShellComponent;
 
 @Data
 @AllArgsConstructor

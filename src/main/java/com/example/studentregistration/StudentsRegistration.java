@@ -1,7 +1,6 @@
 package com.example.studentregistration;
 
 import com.example.studentregistration.events.AddingStudentEvent;
-import com.example.studentregistration.events.AutoFillingListener;
 import com.example.studentregistration.events.RemovingStudentEvent;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
